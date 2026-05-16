@@ -1,0 +1,9 @@
+Model,Class,Precision,Recall,F1-Score,Support
+Logistic Regression,negative,1.0,1.0,1.0,99
+Logistic Regression,neutral,1.0,1.0,1.0,105
+Logistic Regression,positive,1.0,1.0,1.0,96
+Logistic Regression,accuracy,,,1.0,
+Naive Bayes,negative,1.0,1.0,1.0,99
+Naive Bayes,neutral,1.0,1.0,1.0,105
+Naive Bayes,positive,1.0,1.0,1.0,96
+Naive Bayes,accuracy,,,1.0,
